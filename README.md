@@ -77,7 +77,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 
 ![Altered Size](https://user-images.githubusercontent.com/98680133/159220954-7cb93a2c-6412-44a5-93cc-4dd92b709722.png)
 
--The score for the medium school size changed slighty by 0.01%. The changes were once again affected due to the 9th grade score changes.
+- The score for the medium school size changed slighty by 0.01%. The changes were once again affected due to the 9th grade score changes.
 
 ## Score by school type
 
