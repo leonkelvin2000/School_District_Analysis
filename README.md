@@ -49,7 +49,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 
 -----------Reading Scores Original--------------------Reading Scores Updated-------
 
-![Reading Original](https://user-images.githubusercontent.com/98680133/159219929-bb66c514-ad4e-445a-a077-d72ed8f05ea0.png)
+![Reading Original](https://user-images.githubusercontent.com/98680133/159223606-e028ceb8-3d42-4d85-9f15-43463b360cbb.png)
 ![Reading Altered](https://user-images.githubusercontent.com/98680133/159220014-c719c8a6-9e86-446f-92cd-a97d26566dfc.png)
 
 - The only Difference here is that the 9th grade for Thomas High School was updated to Nan instead for math and reading.
