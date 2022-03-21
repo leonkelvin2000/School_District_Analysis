@@ -42,7 +42,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 - The % Passing Math, % Passing Reading and % Overall Passing difference between the original and updated was less then 0.5% which didnt create a huge impact.
 
 ## Math and Reading Scores by grade
------Math Scores Original---------------------------------Math Scores Updated-
+--------Math Scores Original----------------------------Math Scores Updated------
 
 ![Math original](https://user-images.githubusercontent.com/98680133/159219747-37602c7e-8224-40aa-b3ca-0ced33c0812c.png)
 ![Math Altered](https://user-images.githubusercontent.com/98680133/159219811-255e2df8-f228-45a5-a50e-82288f58f424.png)
