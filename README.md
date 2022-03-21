@@ -21,6 +21,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 ![Original district](https://user-images.githubusercontent.com/98680133/159214516-0c1e273c-ef01-4499-bba8-161d8b88c59d.png)
 
 -District Anaylsis - Updated-
+
 ![Altered district](https://user-images.githubusercontent.com/98680133/159214523-0bb149ef-1218-4f2b-8c9f-b739bf38b3ef.png)
 
 - The change of adding Nan to all 9th grade for Thomas High School Math and Reading scores did not create a huge change with the district analysis. There are only 461 students in 9th grade for Thomas High School, and given the total student count is 39,170, the 9th grade students for Thomas High School only make up 1.18% of the total student count which means thats the results of adding Nan into the data will not create a drastic change to the data.
