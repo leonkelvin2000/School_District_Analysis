@@ -28,9 +28,11 @@ The School Board will like to understand the impact of changing all the 9th grad
 
 
 ### How is the school summary affected?
+
 -Top Schools - Original-
 
 ![Original School Summary](https://user-images.githubusercontent.com/98680133/159218907-70bba338-b973-4766-85dc-fb5efe0c44d0.png)
+
 -Top Schools - Updated-
 
 ![Altered School Summary](https://user-images.githubusercontent.com/98680133/159218914-f8b3c6b5-09ca-467b-bc28-1b91bf39fd7a.png)
@@ -43,12 +45,15 @@ The School Board will like to understand the impact of changing all the 9th grad
 -Math Scores Original-
 
 ![Math original](https://user-images.githubusercontent.com/98680133/159219747-37602c7e-8224-40aa-b3ca-0ced33c0812c.png)
+
 -Math Scores Updated-
 
 ![Math Altered](https://user-images.githubusercontent.com/98680133/159219811-255e2df8-f228-45a5-a50e-82288f58f424.png)
+
 -Reading Scores Original-
 
 ![Reading Original](https://user-images.githubusercontent.com/98680133/159219929-bb66c514-ad4e-445a-a077-d72ed8f05ea0.png)
+
 -Reading Scores Updated-
 
 ![Reading Altered](https://user-images.githubusercontent.com/98680133/159220014-c719c8a6-9e86-446f-92cd-a97d26566dfc.png)
@@ -61,6 +66,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 -Original school spending-
 
 ![Original Spending](https://user-images.githubusercontent.com/98680133/159220427-a64312b3-1dbf-413b-8df8-e221bdd137ca.png)
+
 -Updated school spending-
 
 ![Altered Spending](https://user-images.githubusercontent.com/98680133/159220449-6ce00247-aac8-4aa3-96ed-950cf085de41.png)
@@ -72,6 +78,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 -Original school size-
 
 ![Original Size](https://user-images.githubusercontent.com/98680133/159220897-1d3d46ec-8b89-4d74-bdd8-aff4c8bce3bd.png)
+
 -Updated school size-
 
 ![Altered Size](https://user-images.githubusercontent.com/98680133/159220954-7cb93a2c-6412-44a5-93cc-4dd92b709722.png)
@@ -83,6 +90,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 -Original school type-
 
 ![Original Type](https://user-images.githubusercontent.com/98680133/159221261-ab8a4ac4-e4e1-45bb-a98d-9a638c89ae1a.png)
+
 -Updated school type-
 
 ![Altered Type](https://user-images.githubusercontent.com/98680133/159221309-46c1544b-e414-4d50-bdd9-7d3bae7edc46.png)
