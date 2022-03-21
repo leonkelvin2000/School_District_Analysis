@@ -96,6 +96,9 @@ The School Board will like to understand the impact of changing all the 9th grad
 ## Final Summary
 
 -District Analysis - changes to all scores decreased by less than 0.5% no impact to school or student count.
+
 -Top School Ranking - The rank of Thomas High School did not change and they stayed at top 2 and the % Overall Passing decreased by less then 1%.
+
 -Scores by School Size - The Medium (1000-2000) category were Thomas High School is grouped at decreased their percentage point by less then 0.1%.
+
 -Scores by School Type - Only Charter type category was affected and it decreased by less then 0.1%.
