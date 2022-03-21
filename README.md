@@ -65,7 +65,7 @@ The School Board will like to understand the impact of changing all the 9th grad
 
 ![Altered Spending](https://user-images.githubusercontent.com/98680133/159220449-6ce00247-aac8-4aa3-96ed-950cf085de41.png)
 
--There was a slight change in school spending for the range of $630-644 due to Thomas High School being in that range. The changes were less then 0.01% which didnt change the metric range for the school.
+- There was a slight change in school spending for the range of $630-644 due to Thomas High School being in that range. The changes were less then 0.01% which didnt change the metric range for the school.
 
 ## Score by school size
 
